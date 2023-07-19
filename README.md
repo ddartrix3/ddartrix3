@@ -13,7 +13,7 @@ I enjoy creating custom mechanical keyboard builds as a hobby! Here is my favori
 - NovelKeys Cherry Milkshake PBT Dyesub Keycaps (Base Kit)
 - CableMod Pro Straight Aviator Cable (Pastel Rainbow)
 
-## 📚 Language Proficiency:
+## 📚 Coding Proficiency:
 - Python: Expert
 - MATLAB: Advanced
 - C: Intermediate
