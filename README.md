@@ -3,7 +3,7 @@
 ## 😄 About me:
 
 ### Introduction
-I am an IEEE undergraduate college student based in the SF Bay Area! I enjoy both hardware and software work. I enjoy creating new solutions or modifying existing solutions to make processes simplier on the software and hardware side. Python is my favorite programming language. My design focus is centered around simplification, automation, easy UX. I hope you find good use out of my projects! All of my published work is open source and free to use.
+I am an IEEE undergraduate college student based in the SF Bay Area! I enjoy both hardware and software work. I enjoy creating new solutions or modifying existing solutions to make processes simplier on the software and hardware side. Python is my favorite programming language. My design focus is centered around simplification, automation, easy UX. I hope you find good use out of my projects! **All of my published work is open source and free to use.**
 
 ### Interests
 I enjoy creating custom mechanical keyboard builds as a hobby! Here is my favorite linear build that I use daily.
